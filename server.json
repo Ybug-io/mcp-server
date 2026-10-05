@@ -7,18 +7,23 @@
   "websiteUrl": "https://ybug.io/features/mcp-server",
   "repository": {
     "url": "https://github.com/Ybug-io/mcp-server",
-    "source": "github"
+    "source": "github",
+    "id": "1405306000"
   },
   "icons": [
     {
       "src": "https://ybug.io/images/logo.png",
       "mimeType": "image/png",
-      "sizes": ["512x512"]
+      "sizes": [
+        "512x512"
+      ]
     },
     {
       "src": "https://ybug.io/images/logo.svg",
       "mimeType": "image/svg+xml",
-      "sizes": ["any"]
+      "sizes": [
+        "any"
+      ]
     }
   ],
   "remotes": [
