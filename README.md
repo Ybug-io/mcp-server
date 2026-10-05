@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ybug.io/features/mcp-server"><img src="https://ybug.io/images/Ybug-logo-icon-blue.svg" alt="Ybug" width="72" height="72"></a>
+  <a href="https://ybug.io/features/mcp-server"><img src="https://ybug.io/images/logo.svg" alt="Ybug" width="72" height="72"></a>
 </p>
 
 # Ybug MCP server
