@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.ybug/mcp",
+  "title": "Ybug",
+  "description": "Read, filter and triage Ybug website feedback and bug reports from your AI assistant",
+  "version": "1.0.0",
+  "websiteUrl": "https://ybug.io/features/mcp-server",
+  "repository": {
+    "url": "https://github.com/Ybug-io/mcp-server",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://ybug.io/images/logo.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    },
+    {
+      "src": "https://ybug.io/images/logo.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.ybug.io/mcp"
+    }
+  ]
+}
